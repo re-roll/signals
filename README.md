@@ -12,9 +12,6 @@ from IPython.display import Audio
 from IPython.display import display
 ```
 
-    Matplotlib is building the font cache; this may take a moment.
-
-
 ### Start parsing
 
 
@@ -87,19 +84,19 @@ draw(xall, 99, Fs=Fs)
 
 
     
-![png](main_files/main_7_0.png)
+![png](img/main_7_0.png)
     
 
 
 
     
-![png](main_files/main_7_1.png)
+![png](img/main_7_1.png)
     
 
 
 
     
-![png](main_files/main_7_2.png)
+![png](img/main_7_2.png)
     
 
 
@@ -183,19 +180,19 @@ draw(PSD99, 99, freq=freq99)
 
 
     
-![png](main_files/main_13_0.png)
+![png](img/main_13_0.png)
     
 
 
 
     
-![png](main_files/main_13_1.png)
+![png](img/main_13_1.png)
     
 
 
 
     
-![png](main_files/main_13_2.png)
+![png](img/main_13_2.png)
     
 
 
